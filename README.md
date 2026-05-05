@@ -1,0 +1,1 @@
+here I upload all the .pynb filew, I write all the ml , dl , ai , and gen ai 
